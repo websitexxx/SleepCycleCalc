@@ -2827,7 +2827,7 @@ i.fas.fa-check {
 
     /* Nền màu #fff0dd */
     .background {
-      width: 500px;
+      width: 999vh;
       height: 999vh; /* Chiều cao của nền */
       background-color: #fff0dd;
       position: absolute;
